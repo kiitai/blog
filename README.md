@@ -1,13 +1,23 @@
 ## Welcome to KIIT AI Society
 
-You can use the [editor on GitHub](https://github.com/kiitai/kiitai.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are a driven bunch. We are passionate about different domains of Artificial Intelligence and work on projects and research. If you are sick of same old tutorials and want to get your hands dirty.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Latest
+* We are set to organize a meetup with School of AI, Bhubaneswar this month.
+* The paper "Deep Learning with Neural Networks has been published on Global Scientific Journals, Volume 6, Issue 12 December 2018 edition.
+* Two original research papers have been presented at the 3rd International Conference on Smart Computing & Informatics (SCI) 2018 in December for publication in Springer SIST.
+* Two research papers have been published in IEEE Explore by our members after presentation at ICICT 2018, Coimbatore.
+
+
+## Our Awesome Team
 
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="/assets/images/bando.jpg" width="100" />
+  <img src="/assets/images/soham.jpg" width="100" />
+  <img src="/assets/images/aniket.jpg" width="100" />
+  <img src="/assets/images/bando.jpg" width="100" />
+  <img src="/assets/images/soham.jpg" width="100" />
+  <img src="/assets/images/aniket.jpg" width="100" />
 </p>
 
 ### Markdown
