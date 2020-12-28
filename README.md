@@ -9,14 +9,22 @@ We are a driven bunch. We are passionate about different domains of Artificial I
 * Two research papers have been published in IEEE Explore by our members after presentation at ICICT 2018, Coimbatore.
 
 # Our Awesome Team
-<p style="border: 1px">
-  <img src="/assets/images/bando.jpg" width="100" height="100"/>
-  <img src="/assets/images/soham.jpg" width="100" height="100"/>
-  <img src="/assets/images/aniket.jpg" width="100" height="100"/>
-  <img src="/assets/images/bando.jpg" width="100" height="100"/>
-  <img src="/assets/images/soham.jpg" width="100" height="100"/>
-  <img src="/assets/images/aniket.jpg" width="100" height="100"/>
-</p>
+<div style="border: 1px">
+    <span>
+        <img src="/assets/images/bando.jpg" width="100" height="100"/>
+        <p>Ritwik</p>
+    </span>
+    <span>
+        <img src="/assets/images/soham.jpg" width="100" height="100"/>
+        Soham Pathak
+    </span>
+    <span>
+        <img src="/assets/images/aniket.jpg" width="100" height="100"/>
+    </span>
+    <span>
+        <img src="/assets/images/bando.jpg" width="100" height="100"/>
+    </span>
+</div>
 
 ### Markdown
 
