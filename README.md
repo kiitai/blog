@@ -8,37 +8,14 @@ We are a driven bunch. We are passionate about different domains of Artificial I
 * Two original research papers have been presented at the 3rd International Conference on Smart Computing & Informatics (SCI) 2018 in December for publication in Springer SIST.
 * Two research papers have been published in IEEE Explore by our members after presentation at ICICT 2018, Coimbatore.
 
-```js script
-    function getFig(path, name){
-        <figure>
-            <img src=path alt="Trulli" style="width:100%">
-            <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-        </figure>
-}
-```
 # Our Awesome Team
-
-<p float="left">
-  <figure>
-    <img src="/assets/images/bando.jpg" width="100" height="100"/>
-    <figcaption>Ritwik Bandopadhyay</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/soham.jpg" width="100" height="100"/>
-    <figcaption>Soham Pathak</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/aniket.jpg" width="100" height="100"/>
-    <figcaption>Aniket Maurya</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/bando.jpg" width="100" height="100"/>
-    <figcaption>Ritwik</figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/images/bando.jpg" width="100" height="100"/>
-    <figcaption>Ritwik</figcaption>
-  </figure>
+<p style="border: 1px">
+  <img src="/assets/images/bando.jpg" width="100" height="100"/>
+  <img src="/assets/images/soham.jpg" width="100" height="100"/>
+  <img src="/assets/images/aniket.jpg" width="100" height="100"/>
+  <img src="/assets/images/bando.jpg" width="100" height="100"/>
+  <img src="/assets/images/soham.jpg" width="100" height="100"/>
+  <img src="/assets/images/aniket.jpg" width="100" height="100"/>
 </p>
 
 ### Markdown
