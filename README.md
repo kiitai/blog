@@ -12,12 +12,12 @@ We are a driven bunch. We are passionate about different domains of Artificial I
 ## Our Awesome Team
 
 <p float="left">
-  <img src="/assets/images/bando.jpg" width="100" />
-  <img src="/assets/images/soham.jpg" width="100" />
-  <img src="/assets/images/aniket.jpg" width="100" />
-  <img src="/assets/images/bando.jpg" width="100" />
-  <img src="/assets/images/soham.jpg" width="100" />
-  <img src="/assets/images/aniket.jpg" width="100" />
+  <img src="/assets/images/bando.jpg" width="100" height="100"/>
+  <img src="/assets/images/soham.jpg" width="100" height="100"/>
+  <img src="/assets/images/aniket.jpg" width="100" height="100"/>
+  <img src="/assets/images/bando.jpg" width="100" height="100"/>
+  <img src="/assets/images/soham.jpg" width="100" height="100"/>
+  <img src="/assets/images/aniket.jpg" width="100" height="100"/>
 </p>
 
 ### Markdown
