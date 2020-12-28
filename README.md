@@ -12,17 +12,18 @@ We are a driven bunch. We are passionate about different domains of Artificial I
 <div style="border: 1px">
     <span>
         <img src="/assets/images/bando.jpg" width="100" height="100"/>
-        <p>Ritwik</p>
+        <p>Ritwik Bandhopadhyay</p>
     </span>
     <span>
         <img src="/assets/images/soham.jpg" width="100" height="100"/>
-        Soham Pathak
+        <p>Soham Pathak</p>
     </span>
     <span>
         <img src="/assets/images/aniket.jpg" width="100" height="100"/>
+        <p>Aniket Maurya</p>
     </span>
     <span>
-        <img src="/assets/images/bando.jpg" width="100" height="100"/>
+        <img src="/assets/images/bando.jpg" width="100" height="100"/><p>Ritwik</p>
     </span>
 </div>
 
